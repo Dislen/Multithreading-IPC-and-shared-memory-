@@ -1,0 +1,14 @@
+/mnt/c/Users/disle/OneDrive/Desktop/UEA/Child/bin/Debug/net8.0/Child
+/mnt/c/Users/disle/OneDrive/Desktop/UEA/Child/bin/Debug/net8.0/Child.deps.json
+/mnt/c/Users/disle/OneDrive/Desktop/UEA/Child/bin/Debug/net8.0/Child.runtimeconfig.json
+/mnt/c/Users/disle/OneDrive/Desktop/UEA/Child/bin/Debug/net8.0/Child.dll
+/mnt/c/Users/disle/OneDrive/Desktop/UEA/Child/bin/Debug/net8.0/Child.pdb
+/mnt/c/Users/disle/OneDrive/Desktop/UEA/Child/obj/Debug/net8.0/Child.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/disle/OneDrive/Desktop/UEA/Child/obj/Debug/net8.0/Child.AssemblyInfoInputs.cache
+/mnt/c/Users/disle/OneDrive/Desktop/UEA/Child/obj/Debug/net8.0/Child.AssemblyInfo.cs
+/mnt/c/Users/disle/OneDrive/Desktop/UEA/Child/obj/Debug/net8.0/Child.csproj.CoreCompileInputs.cache
+/mnt/c/Users/disle/OneDrive/Desktop/UEA/Child/obj/Debug/net8.0/Child.dll
+/mnt/c/Users/disle/OneDrive/Desktop/UEA/Child/obj/Debug/net8.0/refint/Child.dll
+/mnt/c/Users/disle/OneDrive/Desktop/UEA/Child/obj/Debug/net8.0/Child.pdb
+/mnt/c/Users/disle/OneDrive/Desktop/UEA/Child/obj/Debug/net8.0/Child.genruntimeconfig.cache
+/mnt/c/Users/disle/OneDrive/Desktop/UEA/Child/obj/Debug/net8.0/ref/Child.dll
