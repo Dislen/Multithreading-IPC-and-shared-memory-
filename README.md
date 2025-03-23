@@ -1,4 +1,4 @@
-# Operating-Systems-Project-One
+# Read Me
 
 
 This is a program that is meant to demonstrate an understanding of multithreading, interprocess communication, and shared memory.
